@@ -44,6 +44,7 @@ Atualmente estagiando em Infraestrutura e Desenvolvimento, com foco em melhorias
 - Desenvolvimento e implementação de uma aplicação web.
 - Visando aumentar a visibilidade da empresa do meu cliente.
 - Tecnologias utilizadas: HTML, CSS e NodeJs.
+- [ves.tec.br](https://ves.tec.br/)
 
 ---
 
