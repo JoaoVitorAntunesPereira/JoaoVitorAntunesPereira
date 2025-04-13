@@ -72,3 +72,5 @@ Atualmente estagiando em Infraestrutura e Desenvolvimento, com foco em melhorias
 - 📧 Email: joaovitorantunespereira85@gmail.com
 
 *Sempre aberto a colaborações e novas oportunidades de aprendizado!*
+
+</p><img align="center" height="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
