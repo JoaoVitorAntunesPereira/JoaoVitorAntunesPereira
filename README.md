@@ -68,7 +68,7 @@ Atualmente estagiando em Infraestrutura e Desenvolvimento, com foco em melhorias
 ---
 
 ## 📬 Vamos nos conectar!
-- 💼 [LinkedIn]([https://www.linkedin.com/in/joao-vitor-antunes-da-silva/](https://www.linkedin.com/in/jo%C3%A3o-vitor-pereira-pereira-a6865326b/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-pereira-pereira-a6865326b/)
 - 📧 Email: joaovitorantunespereira85@gmail.com
 
 *Sempre aberto a colaborações e novas oportunidades de aprendizado!*
