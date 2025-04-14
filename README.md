@@ -6,6 +6,12 @@ Atualmente estagiando em Infraestrutura e Desenvolvimento, com foco em melhorias
 
 ---
 
+## 📈 GitHub Stats
+<div style="display:grid;">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAntunesPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Linguagens e Frameworks
@@ -30,13 +36,6 @@ Atualmente estagiando em Infraestrutura e Desenvolvimento, com foco em melhorias
 
 ---
 
-## 📚 Atualmente Aprendendo
-- Python orientado a objetos
-- Framework Spring para desenvolvimento Java escalável
-
-
----
-
 ## 💼 Experiências Recentes
 
 ### Desenvolvedor Web Estagiário — V&S Tecnologia, Concórdia-SC  
@@ -48,25 +47,7 @@ Atualmente estagiando em Infraestrutura e Desenvolvimento, com foco em melhorias
 
 ---
 
-## 🎯 Metas
-- [x] Iniciar jornada em Spring e Python
-- [ ] Desenvolver projetos práticos aplicando:
-  - CRUDs com C# e SQL
-  - Sistemas modulares com Docker
-- [ ] Aprender desenvolvimento de jogos com Godot
-- [ ] Iniciar desenvolvimento de APIs
-- [ ] Continuar aprendendo Spring
-- [ ] Aprimorar conhecimentos em Python com foco em Orientação a Objetos
-- [ ] Analise de dados com Python
 
-
----
-
-## 📈 GitHub Stats
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAntunesPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
-</div>
 
 ---
 
