@@ -2,7 +2,6 @@
 # 👋 Olá, eu sou o João Vitor!
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de Full Stack**  
-Atualmente estagiando em Infraestrutura e Desenvolvimento, com foco em melhorias internas e automações. Tenho experiência em desenvolvimento Full Stack e estou sempre em busca de aprender novas tecnologias.
 
 ---
 
