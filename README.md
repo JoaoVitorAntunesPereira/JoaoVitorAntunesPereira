@@ -7,6 +7,12 @@
 
 
 ## 🛠️ Tech Stack
+## 📈 GitHub Stats
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
+  </div>
+  <div style="margin-left: 20px;">
 
 ### 💻 Linguagens e Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -17,16 +23,17 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
 ### 🛢️ Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ### ⚙️ Ferramentas e Tecnologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+  </div>
+</div>
 
 ---
 
