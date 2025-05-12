@@ -7,8 +7,7 @@
 
 ## 📈 GitHub Stats
 <div style="display:grid;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorAntunesPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 ## 🛠️ Tech Stack
