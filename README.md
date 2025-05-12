@@ -5,9 +5,9 @@
 ---
 
 ## 🛠️ Tech Stack
-<table>
+<table style="border-collapse: collapse; border: none;>
   <tr>
-    <td>
+    <td style="border: none;>
 
 ### 💻 Linguagens e Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -28,7 +28,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
   </td>
-  <td>
+  <td style="border: none;>
     <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
   </td>
   </tr>
