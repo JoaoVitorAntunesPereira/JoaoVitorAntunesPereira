@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 <div style="display: flex;">
-    <div>
+<div>
 
 ### 💻 Linguagens e Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,10 +26,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    </div>
-    <div>
+</div>
+<div>
     <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
-    </div>
+</div>
 </div>
 
 ---
