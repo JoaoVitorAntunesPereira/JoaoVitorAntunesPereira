@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<div style="display: grid; grid-template-columns: 50% 50%;">
+<div style="display: flex;">
     <div style="width: 50%;>
 
 ### 💻 Linguagens e Frameworks
