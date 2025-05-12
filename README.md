@@ -1,16 +1,11 @@
-
 # 👋 Olá, eu sou o João Vitor!
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de Full Stack**  
 
 ---
 
-
 ## 🛠️ Tech Stack
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
-  </div>
   <div>
 
 ### 💻 Linguagens e Frameworks
@@ -32,6 +27,9 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
   </div>
+  <div>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
+  </div>
 </div>
 
 ---
@@ -44,14 +42,6 @@
 - Visando aumentar a visibilidade da empresa do meu cliente.
 - Tecnologias utilizadas: HTML, CSS e NodeJs.
 - [ves.tec.br](https://ves.tec.br/)
-
----
-
-
-## 📈 GitHub Stats
-<div style="display:grid;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
-</div>
 
 ---
 
