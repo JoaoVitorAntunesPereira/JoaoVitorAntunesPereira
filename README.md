@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 <div style="display: grid; grid-template-columns: 50% 50%;">
-    <div>
+    <div style="width: 50%;>
 
 ### 💻 Linguagens e Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
