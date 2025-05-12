@@ -1,12 +1,12 @@
-
 # 👋 Olá, eu sou o João Vitor!
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de Full Stack**  
 
 ---
 
-
 ## 🛠️ Tech Stack
+<div style="display: flex;">
+    <div>
 
 ### 💻 Linguagens e Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -17,16 +17,20 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-
 ### 🛢️ Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ### ⚙️ Ferramentas e Tecnologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+    </div>
+  <div>
+    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
+  </div>
+</div>
 
 ---
 
@@ -38,14 +42,6 @@
 - Visando aumentar a visibilidade da empresa do meu cliente.
 - Tecnologias utilizadas: HTML, CSS e NodeJs.
 - [ves.tec.br](https://ves.tec.br/)
-
----
-
-
-## 📈 GitHub Stats
-<div style="display:grid;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
-</div>
 
 ---
 
