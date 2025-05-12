@@ -6,7 +6,7 @@
 
 ## 🛠️ Tech Stack
 <div style="display: flex;">
-    <div style="width: 50%;>
+    <div>
 
 ### 💻 Linguagens e Frameworks
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
