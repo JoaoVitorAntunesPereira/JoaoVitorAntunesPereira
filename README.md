@@ -29,7 +29,7 @@
 
   </td>
   <td>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=donut-vertical&langs_count=8&theme=dracula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=pie&langs_count=8&theme=dracula"/>
   </td>
   </tr>
 </table>
