@@ -29,7 +29,8 @@
 
   </td>
   <td>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorAntunesPereira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=ff00ff&text_color=ffffff&bg_color=151515&icon_color=00ff00"/>
+
   </td>
   </tr>
 </table>
